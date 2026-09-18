@@ -1,0 +1,6 @@
+{
+  "name": "Doctor:Dida",
+  "description": "تطبيق سريري ذكي لطلاب طب الأسنان لمحاكاة وتوليد وحل الحالات السريرية",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
